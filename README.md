@@ -2,6 +2,7 @@
 
 This repository contains fake code that can be used to practice GitHub commands and
 workflows. This repository is purely for training purposes.
+This has been fun. Thanks eveyone!
 
 
 
